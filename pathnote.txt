@@ -1,0 +1,14 @@
+12-08-2022 no bug
+18-08-2022 penambahan sweetalert
+19-08-2022 rapihin kalimat sweetalert & rapihin submenu ketika dikecilin
+20-08-2022 penambahan detail informasi ketika sweetalert delet
+22-08-2022 menambahkan toggle button pada bagian judul form
+22-08-2022 merubah tampilan login & menambah logo kmc pada sidebar
+24-08-2022 mengurutkan nomor pasien yang akan ditarik datanya pada tambah antrian dan tambah kunjungan direkammedis.
+dan juga menambahkan tanggal cetak disemua cetak laporan/kwintansi/antrian/dll
+27-08-2022 ubah warna background menu sidebar pada tampilan mobile
+30-08-2022 responsive dataTable
+14-02-2023 Merapihkan responsive. Penambahan menu Kelola Menu, penambahan detail waktu pada kartu antrian,menu aktif.
+17-02-2023 Penambahan sub-menu crud.
+22-02-2023 Fix bug edit select box pada jenis kelamin.
+11-05-2023 membuat kolom pencarian dalam select box dengan jquery select2 dan membuat multicell fpdf pada cetak kartu berobat.
